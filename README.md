@@ -19,6 +19,7 @@ The project integrates Machine Learning, Flask, HTML, CSS, and Python into an in
 
 ---
 ## Dataset used
+- <a href="https://github.com/rajshreepawar59241-cyber/Crop-Recommendation-System-Using-Machine-Learning/blob/main/Crop_recommendation.csv">Crop Dataset</a>
 
 
 # 🎯 Problem Statement
