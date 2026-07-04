@@ -46,6 +46,7 @@ This project solves the problem by recommending the most suitable crop using Mac
 
 ---
 ## Dashboard Interaction
+- <a href="https://github.com/rajshreepawar59241-cyber/Crop-Recommendation-System-Using-Machine-Learning/blob/main/Screenshot_20260215_072529.">Veiw Dashboard
 
 # 🛠 Technology Stack
 
