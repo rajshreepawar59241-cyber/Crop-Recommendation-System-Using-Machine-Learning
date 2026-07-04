@@ -18,6 +18,8 @@ The application assists farmers and agricultural professionals in making informe
 The project integrates Machine Learning, Flask, HTML, CSS, and Python into an interactive web application.
 
 ---
+## Dataset used
+
 
 # 🎯 Problem Statement
 
@@ -205,21 +207,3 @@ This project showcases skills in Python, Machine Learning, Flask, HTML/CSS, Scik
 
 ---
 
-# 👩‍💻 Author
-
-**Rajshree Pawar**
-
-### Skills
-
-- Python
-- Machine Learning
-- Flask
-- Scikit-learn
-- Pandas
-- NumPy
-- HTML
-- CSS
-
----
-
-⭐ If you found this project useful, consider giving it a Star.
