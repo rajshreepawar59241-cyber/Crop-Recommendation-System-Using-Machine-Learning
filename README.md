@@ -6,7 +6,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-A Machine Learning-based Crop Recommendation System developed using Python, Flask, and Scikit-learn that predicts the most suitable crop based on soil nutrients and weather conditions through an interactive web application.
 
 ---
 
