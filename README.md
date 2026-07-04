@@ -45,6 +45,7 @@ This project solves the problem by recommending the most suitable crop using Mac
 - Demonstrate Machine Learning deployment using Flask.
 
 ---
+## Dashboard Interaction
 
 # 🛠 Technology Stack
 
@@ -116,11 +117,13 @@ Workflow:
 
 ## Home Page
 
-![Home](screenshots/home_page.png)
+<img width="960" height="415" alt="Screenshot_20260215_072529" src="https://github.com/user-attachments/assets/dca4c737-b193-4079-95a6-54149ce3d6ca" />
+
 
 ## Prediction Result
 
-![Prediction](screenshots/prediction.png)
+<img width="960" height="451" alt="Screenshot_20260220_122232" src="https://github.com/user-attachments/assets/c0e5a5de-af69-4448-af3b-cbe31d45fc10" />
+
 
 ---
 
